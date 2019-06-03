@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Yikai Zhao - Ph.D. candidate
+title: Yikai Zhao - 
 
 # Short description of your site
-description: Welcome to Yikai Zhao's page!
+description: Ph.D. candidate, data science enthusiast
 
 # --- Navigation bar options --- #
 
@@ -32,12 +32,11 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-#avatar: "/img/cropped_yk.png"
-avatar: "/image/face_photo.jpg"
+avatar: "/img/cropped_yk.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/image/face_photo.jpg"
+#title-img: "/image/face_photo.jpg"
 
 # --- Background colour/image options --- #
 
@@ -56,7 +55,7 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/bgimage.png"
+navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
 # page-img: "/img/bgimage.png"
 
@@ -65,7 +64,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Yikai Zhao
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
