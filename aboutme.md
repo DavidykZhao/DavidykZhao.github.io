@@ -9,8 +9,7 @@ css: "/css/aboutme.css"
 <div id="aboutme-section">
 
 <p class="about-text">
-<link rel="icon" href="/img/function.png" class = "about-icon" />
-<span class="fas fa-user-graduate about-icon"> </span>
+<span href="/img/function.png" class="about-icon"> </span>
 A Ph.D. candidate in behavioral science (Communication studies) with a dual M.S. in Statistics. I am aspiring to be data scientist or computational social scientist. 
 </p>
 
@@ -21,7 +20,7 @@ My dissertation is titled <i>What deep learning could bring to framing analysis 
 
 <p class="about-text">
 <span class="fa fa-infinity about-icon"></span>
-4 years of statistical traning and modeling experience. 
+4 years of statistical modeling experience. Proficient in experimental design, predictive modeling, structural equation modeling, mixture model methods and data visualization. See my projects in <a href = "">here</a>.  
 Big fan of fast.ai and an avid practioner of deep learning methods. I have been following their coureses and useing their course API for more than two years. 
 </p>
 
