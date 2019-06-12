@@ -11,7 +11,7 @@ css: "/css/aboutme.css"
 <div id="aboutme-section">
 
 <p class="about-text">
-
+<img class = "external-icon" src="/img/brain.svg" alt="image">
 <!--<span href="/img/function.png" class="about-icon"> </span>-->
 A Ph.D. candidate in behavioral science (Communication studies) with a dual M.S. in Statistics. I am aspiring to be data scientist or computational social scientist. 
 </p>
