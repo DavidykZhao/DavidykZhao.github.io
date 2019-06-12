@@ -18,7 +18,7 @@ css: "/css/aboutme.css"
 <div id="aboutme-section">
 
 <p class="about-text">
-<svg class="about-icon">
+<svg class="about-icon" width="24px" height="24px">
 <use xlink:href="#function" />
 </svg>
 <!--<span href="/img/function.png" class="about-icon"> </span>-->
