@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: All models are wrong, but some are useful.
 css: "/css/aboutme.css"
 
 ---
@@ -13,7 +13,7 @@ css: "/css/aboutme.css"
 <p class="about-text">
 <img class = "external-icon" src="/img/brain.svg" alt="image">
 <!--<span href="/img/function.png" class="about-icon"> </span>-->
-A Ph.D. candidate in behavioral science (Communication studies) with a dual M.S. in Statistics. I am aspiring to be data scientist or computational social scientist. 
+A Ph.D. candidate in behavioral science (Communication studies) with a dual M.S. in Statistics. I am working to be a data scientist or computational social scientist. 
 </p>
 
 <p class="about-text">
@@ -23,7 +23,8 @@ My dissertation is titled <i>What deep learning could bring to framing analysis 
 </p>
 
 <p class="about-text">
-<span class="fa fa-infinity about-icon"></span>
+<img class = "external-icon" src="/img/stats.svg" alt="image">
+
 4 years of statistical modeling experience. Proficient in experimental design, predictive modeling, structural equation modeling, mixture model methods and data visualization. See my projects in <a href = "">here</a>.  
 Big fan of fast.ai and an avid practioner of their deep learning API for two years. 
 </p>
@@ -50,7 +51,7 @@ What else do you need?
 
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
 
-<div>Icon made by monkik from www.flaticon.com
+<div><div>Icons made by <a href="https://www.flaticon.com/authors/eucalyp" title="Eucalyp">Eucalyp</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
 </div>
 
 
