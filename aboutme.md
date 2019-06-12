@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: All models are wrong, but some are useful.
+subtitle: You know, all models are wrong, but some are useful.
 css: "/css/aboutme.css"
 
 ---
@@ -17,9 +17,9 @@ A Ph.D. candidate in behavioral science (Communication studies) with a dual M.S.
 </p>
 
 <p class="about-text">
-<img class = "external-icon" src="/img/analytics.svg" alt="image">
+<img class = "external-icon" src="/img/ai.svg" alt="image">
 
-My dissertation is titled <i>What deep learning could bring to framing analysis on Twitter</i> under the amazing supervisor <a href = "https://comm.tamu.edu/kirby-goidel/">Dr. Kirby Goidel</a>, the director of the <a href = "https://ppri.tamu.edu/">Public Policy Research Institute</a> at Texas A&M University. The dissertation serves as a comprehensive experiment about the effects of diverse state-of-the-art NLP models in analysing twitter messages and includes statistical tests for those effects.
+My dissertation is titled <i>What deep learning could bring to framing analysis on Twitter</i> under the amazing supervisor <a href = "https://comm.tamu.edu/kirby-goidel/" target="_blank">Dr. Kirby Goidel</a>, the director of the <a href = "https://ppri.tamu.edu/" target="_blank">Public Policy Research Institute</a> at Texas A&M University. The dissertation serves as a comprehensive experiment about the effects of diverse state-of-the-art NLP models in analysing twitter messages and includes statistical tests for those effects.
 </p>
 
 <p class="about-text">
@@ -31,7 +31,7 @@ Big fan of fast.ai and an avid practioner of their deep learning API for two yea
 
 
 <p class="about-text">
-<img class = "external-icon" src="/img/bike.svg" alt="image">
+<img class = "external-icon" src="/img/bonfire.svg" alt="image">
 I am an avid backpacker and cracy about national parks. <a href = "">Here</a> you could see some of the amateur photos I took while travling.
 </p>
 
