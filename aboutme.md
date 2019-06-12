@@ -30,7 +30,7 @@ Big fan of fast.ai and an avid practioner of their deep learning API for two yea
 
 
 <p class="about-text">
-<span class="fa fa-infinity about-icon"></span>
+<img class = "external-icon" src="/img/bike.svg" alt="image">
 I am an avid backpacker and cracy about national parks. <a href = "">Here</a> you could see some of the amateur photos I took while travling.
 </p>
 
