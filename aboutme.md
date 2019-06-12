@@ -4,7 +4,22 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+<div id="aboutme-section">
+
+<p class="about-text">
+<span class="fa fa-user-graduate about-icon"></span>
+An <strong>Ph.D. candidate in behavioral science (Communication studies) with a dual M.S. in Statistics </strong></a>. I am aspiring to be data scientist or computational social scientist. 
+</p>
+
+<p class="about-text">
+<span class="fa fa-briefcase about-icon"></span>
+Big fan of fast.ai and an avid practioner of deep learning methods. I have been following their coureses and useing their course API for more than two years. 
+</p>
+
+
+</div>
+
+
 
 - I rock a great mustache
 - I'm extremely loyal to my family
