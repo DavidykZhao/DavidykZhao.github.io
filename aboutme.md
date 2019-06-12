@@ -26,7 +26,7 @@ A Ph.D. candidate in behavioral science (Communication studies) with a dual M.S.
 </p>
 
 <p class="about-text">
-<svg>
+<svg height = "24" width = "24">
 <use xlink:href="#analytics" />
 </svg>
 <span class="fas fa-user-graduation-cap about-icon"> </span>
@@ -38,6 +38,13 @@ My dissertation is titled <i>What deep learning could bring to framing analysis 
 4 years of statistical modeling experience. Proficient in experimental design, predictive modeling, structural equation modeling, mixture model methods and data visualization. See my projects in <a href = "">here</a>.  
 Big fan of fast.ai and an avid practioner of their deep learning API for two years. 
 </p>
+
+
+<p class="about-text">
+<span class="fa fa-infinity about-icon"></span>
+I am an avid backpacker and cracy about national parks. 
+</p>
+
 
 
 
