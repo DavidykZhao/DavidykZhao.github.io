@@ -26,7 +26,7 @@ A Ph.D. candidate in behavioral science (Communication studies) with a dual M.S.
 </p>
 
 <p class="about-text">
-<svg height = "24" width = "24">
+<svg height = "24" width = "24" left = "-50" >
 <use xlink:href="#analytics" />
 </svg>
 My dissertation is titled <i>What deep learning could bring to framing analysis on Twitter</i> under the amazing supervisor <a href = "https://comm.tamu.edu/kirby-goidel/">Dr. Kirby Goidel</a>, the director of the <a href = "https://ppri.tamu.edu/">Public Policy Research Institute</a> at Texas A&M University. The dissertation serves as a comprehensive experiment about the effects of diverse state-of-the-art NLP models in analysing twitter messages and includes statistical tests for those effects.
