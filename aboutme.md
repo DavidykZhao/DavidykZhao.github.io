@@ -2,14 +2,14 @@
 layout: page
 title: About me
 subtitle: You know, all models are wrong, but some are useful
+css: "/css/aboutme.css"
 
-css: "scss_icon.css"
 ---
 <head>
   <link rel="stylesheet" href="scss_icon.css">
 </head>
 
-//css: "/css/aboutme.css"
+
 
 <div id="aboutme-section">
 
@@ -41,31 +41,31 @@ I am an avid backpacker and cracy about national parks. <a href = "">Here</a> yo
 <br>
 
 
+<section class="flex-block flex-block--wrapper">
+    <article class="flex-block flex-block--row flex-block--flex-end">
+            <aside class="flex-block--grid flex-block--padding">
+                <ul class="skills-list flex-block--grid">
+                        <h3 class="flex-block--full">Languages & tools</h3>
+                        {% for skill in site.skills %}
+                            <li class="skills-list-icon flex-block--grid__item">   
+                            <img src="/img/icons/{{skill.image}}" alt="{{ skill.name }}" class="icon icon--skills">
+                            </li>
 
-<div>
-    <ul class="skills-list flex-block--grid">
-            <h3 class="flex-block--full">Languages & tools</h3>
-            {% for skill in site.skills %}
-                <li class="skills-list-icon flex-block--grid__item">   
-                <img src="/img/icons/{{skill.image}}" alt="{{ skill.name }}" class="icon icon--skills">
-                </li>
-            
+                        {% endfor %}
+                 </ul>
 
-            {% endfor %}
-   </ul>
+             </aside>
+         </article>
+ </section>
 
 </div>
 
 
 
-</div>
 
 
 
-
-
-
-<div><div>Icons made by <a href="https://www.flaticon.com/authors/eucalyp" title="Eucalyp">Eucalyp</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+<div>Icons made by <a href="https://www.flaticon.com/authors/eucalyp" title="Eucalyp">Eucalyp</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
 </div>
 
 
