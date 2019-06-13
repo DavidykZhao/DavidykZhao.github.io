@@ -172,7 +172,52 @@
           align-self: $align;
 }
 
+.icon {
+  max-width: 10rem;
+}
 
+.icon--skills {
+  width: 10rem;
+  margin: 1rem;
+}
+
+.skills-list {
+  @include flexbox();
+  @include flex-wrap(wrap);
+  @include justify-content(space-between);
+  //aligns the last line of the grid to the left
+  &::after {
+  content: '';
+  @include flex(auto);
+  }
+}
+
+$animation: 0.3s ease-out;
+
+.skills-list-icon {
+  filter: grayscale(100%);
+  transition: filter $animation;
+}
+
+.skills-list-icon:hover {
+  filter: grayscale(0);
+  transition: filter $animation;
+}
+
+.flex-block--grid {
+  @include flex-basis(100%);
+  @include flex-grow(0);
+  @include flex-shrink(0);
+}
+
+.flex-block--grid__item {
+  @include flex-grow(0);
+  @include flex-shrink(0);
+}
+
+.flex-block--full {
+  @include flex-basis(100%);
+}
 
 
 
