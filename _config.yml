@@ -69,11 +69,11 @@ author:
 
 skills:
   - name: html5
-    image: html5.png
+    image: "html5.png"
   - name: python
-    image: python.png
+    image: "python.png"
   - name: css
-    image: css3.png
+    image: "css3.png"
   - name: sass
     image: sass.png
   - name: javascript
