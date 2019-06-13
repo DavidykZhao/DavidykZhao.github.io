@@ -36,6 +36,18 @@ Big fan of fast.ai and an practioner of their deep learning API for two years.
 I am an avid backpacker and cracy about national parks. <a href = "">Here</a> you could see some of the amateur photos I took while travling.
 </p>
 
+<div>  
+    <ul>
+        {% for skill in site.skills %}
+                <li >   
+                <img src="/img/icons/{{skill.image}}" alt="{{ skill.name }}">
+                </li>
+
+    
+   </ul>
+</div>
+
+
 <div>
     <ul class="skills-list flex-block--grid">
             <h3 class="flex-block--full">Languages & tools</h3>
@@ -46,7 +58,7 @@ I am an avid backpacker and cracy about national parks. <a href = "">Here</a> yo
             
 
             {% endfor %}
-    </ul>
+   </ul>
 
 </div>
 
