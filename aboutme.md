@@ -5,7 +5,7 @@ subtitle: You know, all models are wrong, but some are useful
 css: "/css/aboutme.css"
 ---
 <head>
-  <link rel="stylesheet" href="/_scss/scss_icon.scss">
+  <link rel="stylesheet" href="/_scss/scss_icon.css">
 </head>
 
 
