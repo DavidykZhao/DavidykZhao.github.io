@@ -66,6 +66,23 @@ footer-link-col: "#404040"
 author:
   name: Yikai Zhao
 
+
+skills:
+  - name: html5
+    image: html5.png
+  - name: python
+    image: python.png
+  - name: css
+    image: css3.png
+  - name: sass
+    image: sass.png
+  - name: javascript
+    image: javascript.png
+  - name: nodejs
+    image: nodejs.png
+  - name: mysql
+    image: mysql.png
+
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.

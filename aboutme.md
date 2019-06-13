@@ -1,9 +1,9 @@
 ---
-layout: page
+ilayout: page
 title: About me
-subtitle: You know, all models are wrong, but some are useful and beautiful
+subtitle: You know, all models are wrong, but some are useful
 css: "/css/aboutme.css"
-
+css: "/_scss/scss_icon.scss"
 ---
 
 
@@ -35,7 +35,14 @@ Big fan of fast.ai and an practioner of their deep learning API for two years.
 I am an avid backpacker and cracy about national parks. <a href = "">Here</a> you could see some of the amateur photos I took while travling.
 </p>
 
-
+<div>
+    <ul class="skills-list flex-block--grid">
+            <h3 class="flex-block--full">Languages & tools</h3>
+            {% for skill in site.skills %}
+                <li class="skills-list-icon flex-block--grid__item"> <img src="{{ site.image_path }}/icons/{{ skill.image }}" alt="{{ skill.name }}" class="icon icon--skills"></li>
+            {% endfor %}
+            </ul>
+</div>
 
 
 </div>
