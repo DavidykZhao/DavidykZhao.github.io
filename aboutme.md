@@ -40,9 +40,11 @@ I am an avid backpacker and cracy about national parks. <a href = "">Here</a> yo
     <ul class="skills-list flex-block--grid">
             <h3 class="flex-block--full">Languages & tools</h3>
             {% for skill in site.skills %}
-                <li class="skills-list-icon flex-block--grid__item"> <img src="img/icons/{{skill.image}}" alt="{{ skill.name }}" class="icon icon--skills">
+                <li class="skills-list-icon flex-block--grid__item">   
+                <img src="/img/icons/{{skill.image}}" alt="{{ skill.name }}" class="icon icon--skills">
                 </li>
-                
+            
+
             {% endfor %}
     </ul>
 
