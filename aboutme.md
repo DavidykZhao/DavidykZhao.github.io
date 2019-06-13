@@ -36,6 +36,8 @@ Big fan of fast.ai and an practioner of their deep learning API for two years.
 I am an avid backpacker and cracy about national parks. <a href = "">Here</a> you could see some of the amateur photos I took while travling.
 </p>
 
+<br>
+
 <div>  
     <ul>
         {% for skill in site.skills %}
