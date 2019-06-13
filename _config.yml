@@ -78,8 +78,6 @@ skills:
     image: sass.png
   - name: javascript
     image: javascript.png
-  - name: nodejs
-    image: nodejs.png
   - name: mysql
     image: mysql.png
 
