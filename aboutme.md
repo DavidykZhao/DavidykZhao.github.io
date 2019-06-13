@@ -3,9 +3,10 @@ layout: page
 title: About me
 subtitle: You know, all models are wrong, but some are useful
 css: "/css/aboutme.css"
-css: "/_scss/scss_icon.scss"
 ---
-
+<head>
+  <link rel="stylesheet" href="/_scss/scss_icon.scss">
+</head>
 
 
 <div id="aboutme-section">
