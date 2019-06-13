@@ -45,7 +45,7 @@ I am an avid backpacker and cracy about national parks. <a href = "">Here</a> yo
                 <li class="skills-list-icon flex-block--grid__item">   
                 <img src="/img/icons/{{skill.image}}" alt="{{ skill.name }}" class="icon icon--skills">
                 </li>
-
+        {% endfor %}
     
    </ul>
 </div>
