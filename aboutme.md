@@ -5,7 +5,7 @@ subtitle: You know, all models are wrong, but some are useful
 css: "/css/aboutme.css"
 ---
 <head>
-  <link rel="stylesheet" href="/_scss/scss_icon.css">
+  <link rel="stylesheet" href="/_sass/scss_icon.css">
 </head>
 
 
@@ -37,6 +37,7 @@ I am an avid backpacker and cracy about national parks. <a href = "">Here</a> yo
 </p>
 
 <br>
+
 
 <div>  
     <ul>
