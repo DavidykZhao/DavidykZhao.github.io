@@ -39,17 +39,6 @@ I am an avid backpacker and cracy about national parks. <a href = "">Here</a> yo
 <br>
 
 
-<div>  
-    <ul>
-        {% for skill in site.skills %}
-                <li class="skills-list-icon flex-block--grid__item">   
-                <img src="/img/icons/{{skill.image}}" alt="{{ skill.name }}" class="icon icon--skills">
-                </li>
-        {% endfor %}
-    
-   </ul>
-</div>
-
 
 <div>
     <ul class="skills-list flex-block--grid">
@@ -64,6 +53,7 @@ I am an avid backpacker and cracy about national parks. <a href = "">Here</a> yo
    </ul>
 
 </div>
+
 
 
 </div>
