@@ -15,7 +15,7 @@ css: "/css/aboutme.css"
 <p class="about-text">
 <img class = "external-icon" src="/img/brain.svg" alt="image">
 <!--<span href="/img/function.png" class="about-icon"> </span>-->
-A Ph.D. candidate in behavioral science (Communication studies) with a dual M.S. in Statistics. I am working to be a data scientist or computational social scientist. 
+A Ph.D. candidate in behavioral science (Communication studies) with a dual M.S. in Statistics. I am looking for a job to be a data scientist or computational social scientist. 
 </p>
 
 <p class="about-text">
@@ -27,14 +27,14 @@ My dissertation is titled <i>What deep learning could bring to framing analysis 
 <p class="about-text">
 <img class = "external-icon" src="/img/stats.svg" alt="image">
 
-4 years of statistical modeling experience. Proficient in experimental design, predictive modeling, structural equation modeling, mixture model methods, Bayesian inference and data visualization. See my projects in <a href = "">here</a>.  
+ I have 4 years experience of statistical modeling. Proficient in experimental design, predictive modeling, structural equation modeling (SEM), mixture model methods, Bayesian inference and data visualization. See my projects in <a href = "">here</a>.  
 Big fan of fast.ai and an practioner of their deep learning API for two years. 
 </p>
 
 
 <p class="about-text">
 <img class = "external-icon" src="/img/bonfire.svg" alt="image">
-I am an avid backpacker and cracy about national parks. <a href = "">Here</a> you could see some of the amateur photos I took while travling.
+I am an avid backpacker and cracy about national parks. <a href = "https://davidykzhao.github.io/lens-page/">Here</a> you could see some of the amateur photos I took while travling.
 </p>
 
 <br>
