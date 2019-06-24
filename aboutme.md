@@ -3,7 +3,6 @@ layout: page
 title: About me
 subtitle: You know, all models are wrong, but some are useful
 css: "/css/aboutme.css" 
-css: "scss_icon.css"
 
 ---
 <head>
