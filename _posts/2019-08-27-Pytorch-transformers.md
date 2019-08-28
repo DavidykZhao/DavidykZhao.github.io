@@ -9,7 +9,7 @@ tags: [Pytorch_transformers, fastai]
 comments: true
 ---
 
-This is a post I originially posted in Towards Data Science. This post introduces a way to incorporate the Pytorch-transformers model into fastai framework, after the update of Pytorch-transformers.
+This is a post I originially published in the famout data science blog Towards Data Science. It has been retweeted by the NLP giant Hugging Face. This post introduces a way to incorporate the Pytorch-transformers model into fastai framework, after the update of Pytorch-transformers.
 
 The post to the article is [here](https://towardsdatascience.com/best-of-two-worlds-pytorch-transformers-meets-fastai-5fd51ef34b0f){:target="_blank"}
 
