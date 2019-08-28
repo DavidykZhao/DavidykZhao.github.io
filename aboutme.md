@@ -38,13 +38,6 @@ I am an avid backpacker and cracy about national parks. <a href = "https://david
 
 <br>
 
-<br>
-
-<br>
-
-<br>
-
-<br>
 
 
 </div>
@@ -54,18 +47,6 @@ I am an avid backpacker and cracy about national parks. <a href = "https://david
 
 
 
-<div>Icons made by 
 
-  <a href="https://www.flaticon.com/authors/monkik" title="Flaticon">momkik</a>
-
-  <a href="https://www.flaticon.com/authors/those-icons" title="Flaticon">Those Icons</a>
-
-  <a href="https://www.flaticon.com/authors/photo3idea-studio" title="Flaticon">photo3idea-studio</a>
-
-  <a href="https://www.flaticon.com/authors/freepik" title="Flaticon">freepik</a>
-
-  from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a> 
-
-</div>
 
 
