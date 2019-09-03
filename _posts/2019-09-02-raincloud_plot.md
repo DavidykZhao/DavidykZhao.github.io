@@ -4,6 +4,7 @@ title: The ultimate EDA visualization in R - Raincloud plot
 subtitle: Clear the obstacles in making raincloud plot
 bigimg: /img/tax.png
 image: /img/tax.png
+show-avatar: true
 tags: [visualization, R, raincloud]
 ---
 
