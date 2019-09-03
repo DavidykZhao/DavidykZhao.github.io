@@ -24,6 +24,10 @@ description: Ph.D. candidate, data science enthusiast
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  My projects:
+    - Pytorch-transformer meets fastai: https://davidykzhao.github.io/2019-08-27-Pytorch-transformers/
+    - Democracy across the world: https://davidykzhao.github.io/2019-08-29-Democracy_project/
+    - Improvement in making raincloud plot: https://davidykzhao.github.io/2019-09-02-raincloud_plot/
   Photography work: "https://davidykzhao.github.io/lens-page/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
