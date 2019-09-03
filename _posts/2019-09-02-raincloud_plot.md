@@ -10,7 +10,7 @@ This is a by-product I worked on an academic project.
 
 My colleague introduced a plot to me called rain cloud plot. It is a combination of dot plot, box plot and kernel density (or you could think of it as a half violin plot), which really conveys a myriad of information yet in a visually pleasant way (thus a lot of times we mistakenly call it rainbow plot :) ). A sample of the plot can be seen from the cover photo:
 
-I have written up a post and it, fortunately get published in [Towards Data Science](https://towardsdatascience.com/the-ultimate-eda-visualization-in-r-e6aff6afe5c1). 
+I have written up a post and it, fortunately get published in [Towards Data Science](https://towardsdatascience.com/the-ultimate-eda-visualization-in-r-e6aff6afe5c1){:target="_blank"}. 
 
 In the post, I mainly introduces two improvements to the default code you may find online. The first is that you may have more groups than the default color palette affords. The code will complain and the error message is not that evident ...
 
