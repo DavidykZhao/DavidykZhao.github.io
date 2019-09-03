@@ -2,14 +2,14 @@
 layout: post
 title: The meaning of Democracy across the world
 subtitle: A thorough investigation of World Value Survey measurements
-bigimg: /img/bert.jpeg
+bigimg: /img/Profile_six_country.png
 tags: [Democracy, Comparative_Politics, Measurement]
 ---
 
 
-This is a project I collaborated with [Dr. Kirby Goidel](https://www.researchgate.net/profile/Kirby_Goidel){:target="_blank" and [Dr. Nicholas Davis](https://psc.ua.edu/people/dr-nicholas-davis/){:target="_blank"}.
+This is a project I collaborated with [Dr. Kirby Goidel](https://www.researchgate.net/profile/Kirby_Goidel){:target="_blank"} and [Dr. Nicholas Davis](https://psc.ua.edu/people/dr-nicholas-davis/){:target="_blank"}.
 
-We used Latent Class/profile Analysis on the measurements of democracy across the globe (22 countries) and also for each country. Interesting patterns revealed suggesting a more nuanced and cultural-centric unerstanding of democracy.
+We used Latent Class/profile Analysis on the measurements of democracy across the globe (22 countries) and also for each country. Interesting patterns revealed suggest a more nuanced and cultural-centric unerstanding of democracy.
 
 I append the abstract here for the convenience of reference:
 
