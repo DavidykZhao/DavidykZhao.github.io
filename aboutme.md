@@ -3,7 +3,7 @@ layout: page_special
 title: About me
 subtitle: You know, all models are wrong, but some are useful
 css: "/css/aboutme.css"
-googlefonts:  Gudea
+googlefonts:  Nothing+You+Could+Do
 
 ---
 <head>
