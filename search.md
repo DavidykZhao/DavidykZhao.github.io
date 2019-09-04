@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Search ykzhao.com"
+title: "Search"
 css: "/css/search.css"
 ---
 
