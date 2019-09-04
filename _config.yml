@@ -148,9 +148,9 @@ google_analytics: "UA-141905447-1"
 
 # Staticman support
 staticman:
-  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
-  branch     : # eg. "master" If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-  endpoint   : # URL of your own deployment (with trailing slash) (will fallback to a public GitLab instance)
+  repository : "DavidykZhao/DavidykZhao.github.io" # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  branch     :  "master"# eg. "master" If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+  endpoint   : "https://davidykzhao.github.io/" # URL of your own deployment (with trailing slash) (will fallback to a public GitLab instance)
   reCaptcha:
     # reCaptcha for Staticman (OPTIONAL)
     # If you use reCaptcha, you must also set these parameters in staticman.yml
@@ -271,3 +271,5 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+
+https://staticman3.herokuapp.com/v3/connect/github/
