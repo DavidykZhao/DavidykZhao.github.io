@@ -4,6 +4,7 @@ title: The meaning of Democracy across the world
 subtitle: A thorough investigation of World Value Survey measurements
 bigimg: /img/Profile_six_country.png
 tags: [Democracy, Comparative_Politics, Measurement]
+comments: true
 ---
 
 

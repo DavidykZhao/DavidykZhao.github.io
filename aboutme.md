@@ -2,7 +2,8 @@
 layout: page_special
 title: About me
 subtitle: You know, all models are wrong, but some are useful
-css: "/css/aboutme.css" 
+css: "/css/aboutme.css"
+googlefonts:  Gudea
 
 ---
 <head>
@@ -33,7 +34,7 @@ My dissertation is titled <i>What deep learning could bring to framing analysis 
 
 <p class="about-text">
 <img class = "external-icon" src="/img/bonfire.svg" alt="image">
-I am an avid backpacker and cracy about national parks. <a href = "https://davidykzhao.github.io/lens-page/">Here</a> you could see some of the amateur photos I took while travling.
+I am an avid backpacker and crazy about national parks. <a href = "https://davidykzhao.github.io/lens-page/">Here</a> you could see some of the amateur photos I took while travling.
 </p>
 
 <br>
