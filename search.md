@@ -5,9 +5,6 @@ css: "/css/search.css"
 ---
 
 # Search ykzhao.com
-<script async src="https://cse.google.com/cse.js?cx="></script>
-<div class="gcse-search"></div>
-### Using the Amazing Google
 
 <div id="google-custom-search">
 <script>
