@@ -15,7 +15,7 @@ css: "/css/aboutme.css"
 <p class="about-text">
 <img class = "external-icon" src="/img/brain.svg" alt="image">
 <!--<span href="/img/function.png" class="about-icon"> </span>-->
-I am a Ph.D. candidate in Communication studies with focus on Computational Social Science.  I also hold a dual M.S. in Statistics. I am looking for a job to be a data scientist, machine learning engineer or computational social scientist. You coulf find my Resume at <a href = "/resume" target="_blank">here</a>.
+I am a Ph.D. candidate in Communication studies with focus on Computational Social Science.  I also hold a dual M.S. in Statistics. I am looking for a job to be a data scientist, machine learning engineer or computational social scientist. You could find my resume at <a href = "/resume" target="_blank">here</a>.
 </p>
 
 <p class="about-text">

@@ -23,7 +23,9 @@ description: Ph.D. candidate, data science enthusiast
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: 
+    - about me: "aboutme"
+    - resume: https://ykzhao.com/resume/
   My projects:
     - Pytorch-transformer meets fastai: https://davidykzhao.github.io/2019-08-27-Pytorch-transformers/
     - Democracy across the world: https://davidykzhao.github.io/2019-08-29-Democracy_project/
