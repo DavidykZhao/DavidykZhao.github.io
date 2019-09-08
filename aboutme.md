@@ -38,12 +38,11 @@ I am an avid backpacker and crazy about national parks. <a href = "https://david
 
 <br>
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 
 
 </div>
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en" data-type="horizontal" data-theme="dark" data-vanity="yikaizhao"><a class="LI-simple-link" href='https://www.linkedin.com/in/yikaizhao?trk=profile-badge'>Yikai Zhao</a></div>
 
 
 
