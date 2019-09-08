@@ -43,7 +43,7 @@ I am an avid backpacker and crazy about national parks. <a href = "https://david
 
 </div>
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="zh_CN" data-type="vertical" data-theme="light" data-vanity="yikaizhao"><a class="LI-simple-link" href='https://www.linkedin.com/in/yikaizhao?trk=profile-badge'>Yikai Zhao</a></div>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en" data-type="horizontal" data-theme="dark" data-vanity="yikaizhao"><a class="LI-simple-link" href='https://www.linkedin.com/in/yikaizhao?trk=profile-badge'>Yikai Zhao</a></div>
 
 
 
