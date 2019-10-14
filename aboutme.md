@@ -21,7 +21,7 @@ I am a Ph.D. candidate in Communication studies with focus on Computational Soci
 <p class="about-text">
 <img class = "external-icon" src="/img/ai.svg" alt="image">
 
-My dissertation is titled <i>What deep learning could bring to framing analysis on Twitter</i> under the amazing supervisor <a href = "https://comm.tamu.edu/kirby-goidel/" target="_blank">Dr. Kirby Goidel</a>, the director of the <a href = "https://ppri.tamu.edu/" target="_blank">Public Policy Research Institute</a> at Texas A&M University. The dissertation serves as a comprehensive experiment about the effects of diverse state-of-the-art NLP models in analysing twitter messages.
+My dissertation is titled <i>What deep learning could bring to framing analysis on Twitter</i> under the amazing supervisor <a href = "https://liberalarts.tamu.edu/communication/profile/kirby-goidel/" target="_blank">Dr. Kirby Goidel</a>, the director of the <a href = "https://ppri.tamu.edu/" target="_blank">Public Policy Research Institute</a> at Texas A&M University. The dissertation serves as a comprehensive experiment about the effects of diverse state-of-the-art NLP models in analysing twitter messages.
 </p>
 
 <p class="about-text">
