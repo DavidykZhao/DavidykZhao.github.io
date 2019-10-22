@@ -16,6 +16,8 @@ This post bridged the gap between the APIs of Fastai and Hugging Face's Pytorch-
 This post introduces two ways to incorporate the Pytorch-transformers model into fastai framework, after the recent update of Pytorch-transformers.
 The post to the article is [here](https://towardsdatascience.com/best-of-two-worlds-pytorch-transformers-meets-fastai-5fd51ef34b0f){:target="_blank"}
 
+You could find a Google Colab notebook in here [here](https://colab.research.google.com/drive/1KFlyttLs7aAX35lMLiDw9Bb0s_74ILMy?source=post_page-----5fd51ef34b0f----------------------#scrollTo=NPgXRybJk2XN){:target="_blank"} if you want to dive in to interact with the code.
+
 
 And the corresponding notebook could be found [here](https://github.com/DavidykZhao/Pytorch_transformers_Fastai/blob/master/Pytorch_transformers_Fastai.ipynb){:target="_blank"}
 
