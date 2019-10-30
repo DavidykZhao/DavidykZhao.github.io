@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "Hurrican Havery & costal resilience "
+title: "Hurricane Harvey & costal resilience "
 subtitle: "2019 AAPOR presentation powerpoint"
 show-avatar: true
 nav-short: false
