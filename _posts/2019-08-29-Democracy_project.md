@@ -17,8 +17,7 @@ This paper has been presented at 2019 annual meeting of the European Political S
 I append the abstract here for convenience of reference:
 
 In most cross-national research on democratic attitudes, there is an implicit assumption that citizens more or less share a common understanding of democracy. We contend, however, that basic views regarding the meaning of democracy vary significantly within and across national populations. Using data from the World Values Survey, we explore the structural properties of a battery of “essential” characteristics of democracy and find significant variance in how mass publics conceptualize it. First, results from utilize multi-group confirmatory factor analysis (MGCFA) indicate that only the “procedural” qualities of democracy satisfy minimally- acceptable levels of invariance. Second, latent profile analysis (LPA) reveals the number and, importantly, type of composite views of democracy vary across countries. These findings encourage caution for analyses of cross-national mass opinion about democracy; in particular, latent variable modeling using pooled survey data should pay careful attention to both data generating processes and the peculiarities of the survey response.
-Word count (inclusive text, figures, tables, references): 6,835 
-Key words: democracy, latent profile analysis, public opinion
+
 
 The paper could be found from [here](https://github.com/DavidykZhao/DavidykZhao.github.io/blob/master/documents/yikai_goidel_epsa_2019_.pdf){:target="_blank"}. 
  
