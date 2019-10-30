@@ -20,6 +20,6 @@ In most cross-national research on democratic attitudes, there is an implicit as
 Word count (inclusive text, figures, tables, references): 6,835 
 Key words: democracy, latent profile analysis, public opinion
 
-The paper in progress could be found from [here](https://github.com/DavidykZhao/DavidykZhao.github.io/blob/master/documents/yikai_goidel_epsa_2019_.pdf){:target="_blank"}. 
+The paper could be found from [here](https://github.com/DavidykZhao/DavidykZhao.github.io/blob/master/documents/yikai_goidel_epsa_2019_.pdf){:target="_blank"}. 
  
 All of the codes and docs that were used could be found in this [Repo](https://github.com/DavidykZhao/Comparative_pol_measurement_project){:target="_blank"} for repreduction purposes. 
