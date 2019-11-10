@@ -10,9 +10,11 @@ comments: true
 
 This is a project I collaborated with [Dr. Kirby Goidel](https://www.researchgate.net/profile/Kirby_Goidel){:target="_blank"} and [Dr. Nicholas Davis](https://psc.ua.edu/people/dr-nicholas-davis/){:target="_blank"}.
 
-We used Latent Class/profile Analysis on the measurements of democracy across the globe (22 countries) and also for each country. Interesting patterns revealed suggest a more nuanced and cultural-centric unerstanding of democracy.
+We used Latent Class/Profile Analysis on the measurements of democracy across the globe (22 countries) and individual country.
+Interesting patterns revealed suggest a more nuanced and cultural-centric unerstanding of democracy.
 
-This paper has been presented at 2019 annual meeting of the European Political Science Association in Belfast, Ireland, June 20-22, 2019 and it has been submitted to British Journal of Political Science. 
+This paper was presented at 2019 annual meeting of the European Political Science Association in Belfast, Ireland, June 20-22, 2019 and it has been submitted to British Journal of Political Science.
+
 
 I append the abstract here for convenience of reference:
 
@@ -21,4 +23,4 @@ In most cross-national research on democratic attitudes, there is an implicit as
 
 The paper could be found from [here](https://github.com/DavidykZhao/DavidykZhao.github.io/blob/master/documents/yikai_goidel_epsa_2019_.pdf){:target="_blank"}. 
  
-All of the codes and docs that were used could be found in this [Repo](https://github.com/DavidykZhao/Comparative_pol_measurement_project){:target="_blank"} for repreduction purposes. 
+All of the codes and docs that were used could be found in this [Repo](https://github.com/DavidykZhao/Comparative_pol_measurement_project){:target="_blank"} for reproduction purposes. 
