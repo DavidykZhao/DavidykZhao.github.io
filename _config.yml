@@ -26,6 +26,7 @@ navbar-links:
   About Me: 
     - about me: "aboutme"
     - resume: https://ykzhao.com/resume/
+    - CV: https://ykzhao.com/CV/ 
   My projects:
     - Pytorch-transformer meets fastai: https://davidykzhao.github.io/2019-08-27-Pytorch-transformers/
     - Democracy across the world: https://davidykzhao.github.io/2019-08-29-Democracy_project/
