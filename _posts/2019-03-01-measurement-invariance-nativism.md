@@ -2,7 +2,6 @@
 layout: post
 title: "Measurement Invariance of nativism"
 subtitle: "Follow up study for Ipsos Nativism glovbal survey"
-bigimg: /img/bert.jpeg
 show-avatar: true
 nav-short: false
 ---
@@ -12,6 +11,6 @@ This paper is inspired by Ipsos’s hypothesis that nativism led to Trump’s su
 
 
 This is a multilevel dataset which can at least be analyzed from the individual level and the country level. 
-This paper was published at https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.12594
+This paper was published at Social Science Quarterly at https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.12594
 
 The paper could also be viewed at [here](https://github.com/DavidykZhao/DavidykZhao.github.io/blob/master/documents/Testing_the_measurement_invariance_of_nativism.pdf){:target="_blank"}. 

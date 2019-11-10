@@ -19,7 +19,7 @@ My colleague introduced a plot to me called rain cloud plot. It is a combination
 I have written a post about rain cloud plot and it was published in [Towards Data Science](https://towardsdatascience.com/the-ultimate-eda-visualization-in-r-e6aff6afe5c1){:target="_blank"}.
 
 
-In the post, I mainly introduces two improvements to the default code you may find online. The first is that you may have more groups than the default color palette affords. The code will complain and the error message is not that evident ...
+In the post, I mainly introduced two improvements to the default code you may find online. The first is that you may have more groups than the default color palette affords. The code will complain and the error message is not that evident ...
 
 The second problem is more subtle in that the default setting of the plot may not generate good visulization utility if your dataset distribution is highly skewed. 
 Thus a careful evaluation of the plottin argument should be on your radar.
