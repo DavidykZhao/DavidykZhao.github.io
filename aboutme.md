@@ -7,7 +7,7 @@ css: "/css/aboutme.css"
 ---
 <head>
   <link rel="stylesheet" href="scss_icon.css">
-<meta property="og:image" content="img/tax.jpg">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Google_Photos_icon.svg/1200px-Google_Photos_icon.svg.png">
 <meta property="og:image:type" content="image/jpg">
 <meta property="og:image:width" content="800">
 <meta property="og:image:height" content="800">
