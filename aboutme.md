@@ -7,6 +7,12 @@ css: "/css/aboutme.css"
 ---
 <head>
   <link rel="stylesheet" href="scss_icon.css">
+<meta property="og:image" content="img/tax.jpg">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="800">
+
+
 </head>
 
 
